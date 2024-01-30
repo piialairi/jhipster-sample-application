@@ -1,0 +1,29 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Luo Job",
+        "createOrEditLabel": "Luo tai muokkaa Job",
+        "notFound": "Job ei löytynyt"
+      },
+      "created": "Uusi Job on luotu, id: {{ param }}",
+      "updated": "Job on päivitetty, id: {{ param }}",
+      "deleted": "Job on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Job {{ id }}?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "id": "ID",
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "task": "Task",
+      "employee": "Employee",
+      "jobHistory": "Job History"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "employee": {
+      "home": {
+        "title": "Employees",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Luo Employee",
+        "createOrEditLabel": "Luo tai muokkaa Employee",
+        "notFound": "Employee ei löytynyt"
+      },
+      "created": "Uusi Employee on luotu, id: {{ param }}",
+      "updated": "Employee on päivitetty, id: {{ param }}",
+      "deleted": "Employee on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Employee {{ id }}?"
+      },
+      "detail": {
+        "title": "Employee"
+      },
+      "id": "ID",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "commissionPct": "Commission Pct",
+      "job": "Job",
+      "manager": "Manager",
+      "department": "Department",
+      "jobHistory": "Job History",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}
