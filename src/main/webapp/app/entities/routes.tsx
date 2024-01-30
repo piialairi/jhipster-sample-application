@@ -11,6 +11,7 @@ import Task from './task';
 import Employee from './employee';
 import Job from './job';
 import JobHistory from './job-history';
+import Company from './company';
 /* jhipster-needle-add-route-import - JHipster will add routes here */
 
 export default () => {
@@ -26,6 +27,7 @@ export default () => {
         <Route path="employee/*" element={<Employee />} />
         <Route path="job/*" element={<Job />} />
         <Route path="job-history/*" element={<JobHistory />} />
+        <Route path="company/*" element={<Company />} />
         {/* jhipster-needle-add-route-path - JHipster will add routes here */}
       </ErrorBoundaryRoutes>
     </div>

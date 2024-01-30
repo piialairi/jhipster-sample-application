@@ -15,7 +15,8 @@
         "task": "Task",
         "employee": "Employee",
         "job": "Job",
-        "jobHistory": "Job History"
+        "jobHistory": "Job History",
+        "company": "Company"
       },
       "account": {
         "main": "Tili",

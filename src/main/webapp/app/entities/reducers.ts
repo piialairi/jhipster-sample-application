@@ -6,6 +6,7 @@ import task from 'app/entities/task/task.reducer';
 import employee from 'app/entities/employee/employee.reducer';
 import job from 'app/entities/job/job.reducer';
 import jobHistory from 'app/entities/job-history/job-history.reducer';
+import company from 'app/entities/company/company.reducer';
 /* jhipster-needle-add-reducer-import - JHipster will add reducer here */
 
 const entitiesReducers = {
@@ -17,6 +18,7 @@ const entitiesReducers = {
   employee,
   job,
   jobHistory,
+  company,
   /* jhipster-needle-add-reducer-combine - JHipster will add reducer here */
 };
 
