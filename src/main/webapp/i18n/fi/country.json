@@ -1,0 +1,26 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "country": {
+      "home": {
+        "title": "Countries",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Luo Country",
+        "createOrEditLabel": "Luo tai muokkaa Country",
+        "notFound": "Country ei löytynyt"
+      },
+      "created": "Uusi Country on luotu, id: {{ param }}",
+      "updated": "Country on päivitetty, id: {{ param }}",
+      "deleted": "Country on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Country {{ id }}?"
+      },
+      "detail": {
+        "title": "Country"
+      },
+      "id": "ID",
+      "countryName": "Country Name",
+      "region": "Region",
+      "location": "Location"
+    }
+  }
+}
